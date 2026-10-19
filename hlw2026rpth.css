@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+.HLWRPA{
+  width: 70%;
+  margin: auto;
+  font-family: Google Sans;
+  font-size: 16px;
+  text-align: justify;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+.HLWRPB{
+  width: 100%;
+  aspect-ratio: 1.75 / 1;
+  position: relative;
+}
+
+.HLWRPC{
+  position: absolute;
+  inset: 0;
+  background: url(https://iili.io/nwxdkGt.png) center/100% 100% no-repeat;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.HLWRPD{
+  position: absolute;
+  width: 26%; 
+  aspect-ratio: 1 / 1; 
+  left: 50%; 
+  top: 52%; 
+  transform: translate(-50%, -50%); 
+  border-radius: 50%; 
+  border: 1px solid #FFF; 
+  box-sizing: border-box; 
+  z-index: 1;
+}
+
+.HLWRPE{
+  width: 89.1%; 
+  background-color: #000; 
+  background-image: url(https://iili.io/nwI4T12.png); 
+  background-position: top center; 
+  background-size: 100% auto; 
+  background-repeat: repeat-y; 
+  margin: auto; 
+  margin-top: -2px; 
+  box-sizing: border-box; 
+  padding: 55px 70px 90px 70px;
+}
+
+.HLWRPF{
+  text-align: right;
+}
+
+.HLWRPG{
+  color: #FFCC00;
+  display: inline-block;
+}
+
+.HLWRPH{
+  width: 100%;
+  aspect-ratio: 3.3/1;
+  position: relative;
+  margin-top: -95px;
+}
+
+.HLWRPI{
+  position: absolute;
+  inset: 0;
+  background: url(https://iili.io/nwRWIJj.png) center/100% 100% no-repeat;
+  z-index: 2;
+  pointer-events: none;
+}
