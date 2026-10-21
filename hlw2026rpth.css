@@ -87,3 +87,10 @@
   aspect-ratio: 1.9 / 1;
   position: relative;
 }
+
+.HLWRPL{
+  width: 100%;
+  margin: auto;
+  user-select: none;
+  pointer-events: none;
+}
