@@ -94,3 +94,16 @@
   user-select: none;
   pointer-events: none;
 }
+
+.HLWRPM{
+  width: 89.1%; 
+  background-color: #000; 
+  background-image: url(https://iili.io/nwI4T12.png); 
+  background-position: top center; 
+  background-size: 100% auto; 
+  background-repeat: repeat-y; 
+  margin: auto; 
+  margin-top: -2px; 
+  box-sizing: border-box; 
+  padding: 20px 70px 90px 70px;
+}
