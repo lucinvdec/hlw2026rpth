@@ -73,3 +73,11 @@
   z-index: 2;
   pointer-events: none;
 }
+
+.HLWRPJ{
+  position: absolute;
+  inset: 0;
+  background: url(https://iili.io/nNypUAv.png) center/100% 100% no-repeat;
+  z-index: 2;
+  pointer-events: none;
+}
