@@ -93,6 +93,8 @@
   margin: auto;
   user-select: none;
   pointer-events: none;
+  box-sizing: border-box;
+  text-align: center;
 }
 
 .HLWRPM{
