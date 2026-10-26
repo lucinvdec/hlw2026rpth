@@ -117,3 +117,36 @@
   box-sizing: border-box;
   color: #fff;
 }
+
+.HLWRPO{
+  display:flex;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+.HLWRPPPic{
+  max-width: 14vw;
+  pointer-events: none;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: auto;
+}
+
+.HLWRPQtextlist{
+  width: 60%;
+  min-width: 150px;
+  text-align: left;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: auto;
+  font-size: min(1.1vw, 16px);
+}
+
+.HLWRPRtext{
+  width: 60%;
+  min-width: 150px;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: auto;
+  font-size: min(1.1vw, 16px);
+}
