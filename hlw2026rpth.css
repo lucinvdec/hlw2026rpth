@@ -107,3 +107,13 @@
   box-sizing: border-box; 
   padding: 20px 70px 90px 70px;
 }
+
+.HLWRPN{
+  width: 50vw;
+  margin: auto;
+  font-family: Google Sans;
+  font-size: 16px;
+  text-align: justify;
+  box-sizing: border-box;
+  color: #fff;
+}
